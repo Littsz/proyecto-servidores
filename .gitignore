@@ -1,0 +1,6 @@
+*.env
+db.ini
+*.sql.gz
+*.sha256
+*.key
+*.pem
