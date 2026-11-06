@@ -1,0 +1,2 @@
+ventas:x:1001:ana,carla
+almacen:x:1002:beto,carla
